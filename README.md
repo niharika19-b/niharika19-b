@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Niharika Badhai</h1>
 <h3 align="center">🔥 Fullstack Developer </h3>
 
-About Me - 💬 💻 Full-stack developer skilled in React and Java.
-         - 🎨 Passionate about crafting responsive UIs and applying UI/UX best practices.
-         - 🧠 Focused on clarity, clean architecture, and hands-on problem solving.
-         - 🚀 Currently refining GitHub projects to showcase recruiter-ready code and documentation.
-         - 🤝 Always learning, building, and collaborating to create impactful web applications.
+About Me- 💬 💻 Full-stack developer skilled in React and Java.
+- 🎨 Passionate about crafting responsive UIs and applying UI/UX best practices.
+- 🧠 Focused on clarity, clean architecture, and hands-on problem solving.
+- 🚀 Currently refining GitHub projects to showcase recruiter-ready code and documentation.
+- 🤝 Always learning, building, and collaborating to create impactful web applications.
 
 - 📫 How to reach me **niharikabadhai0001@gmail.com**
 
