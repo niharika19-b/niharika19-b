@@ -1,4 +1,4 @@
-![logo](https://github.com/niharika19-b/niharika-19b/blob/main/Niharika_Banner_template.jpg)
+![logo](https://github.com/niharika19-b/niharika19-b/blob/main/Niharika_Banner_template.jpg)
 <h1 align="center">Hi 👋, I'm Niharika Badhai</h1>
 <h3 align="center">🔥 Fullstack Developer </h3>
 
